@@ -1,1 +1,1 @@
-print(Arman)
+print("Arman")
